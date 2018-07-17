@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ActiveText24Headline_Colors">
+        <item>#27a9ff</item>
+        <item>#0051ff</item>
+    </string-array>
+
+    <string-array name="ActiveText22Headline_Colors">
+        <item>#0051ff</item>
+        <item>#27a9ff</item>
+    </string-array>
+
+    <integer-array name="ActiveText24Headline_Colors_span">
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+</resources>
